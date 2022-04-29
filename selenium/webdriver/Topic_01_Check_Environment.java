@@ -48,6 +48,6 @@ public class Topic_01_Check_Environment {
 	public void afterClass() throws Exception {
 		Thread.sleep(3000);
 		driver.quit();
-		//test update
+		
 	}
 }
